@@ -1,0 +1,35 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+h1 {
+  color: #222;
+}
+
+p {
+  line-height: 1.6;
+}
+
+/* Card component */
+.card {
+  width: 300px;
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #ffffff;
+  color: #333;          
+}
+
+.card-title {
+  font-size: 20px;
+  margin: 0 0 8px 0;
+}
+
+.card-text {
+  font-size: 14px;
+  margin: 0;
+}
